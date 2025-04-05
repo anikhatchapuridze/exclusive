@@ -272,6 +272,7 @@ h3 {
 .aboutseqtion3,
 .aboutseqtion4,
 .aboutseqtion5 {
+  width: 1440px;
   display: flex;
   justify-content: center;
   align-items: center;
